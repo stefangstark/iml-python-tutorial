@@ -1,2 +1,2 @@
-# iml-2022-python-tutorial
-Python tutorial for Intro to ML Spring 2022
+# iml-python-tutorial
+Python tutorial for Intro to Machine Learning at ETH
